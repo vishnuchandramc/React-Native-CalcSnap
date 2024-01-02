@@ -1,4 +1,4 @@
-# CalcSnap
+# https://lh3.googleusercontent.com/5Ti5sU4QTsmvDq2BSGaviSJZ5MsDCpAaZereQlckY5n-HOW0XeXC8Rj-Fm5KiLP4jNdECalcSnap
 A Calculator application using react native
 
 🌐 Open Source: CalcSnap is a community-driven project, open for all to contribute and enhance.
