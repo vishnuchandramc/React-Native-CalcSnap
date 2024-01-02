@@ -1,6 +1,22 @@
 # CalcSnap
 A Calculator application using react native
 
+[![google-play-badge](https://github.com/vishnuchandramc/React-Native-CalcSnap/assets/43258677/d98ef94e-3f1b-4789-ad85-5f2da86a51ee)](https://play.google.com/store/apps/details?id=com.calcsnap&pli=1)
+
+🌐 Open Source: CalcSnap is a community-driven project, open for all to contribute and enhance.
+
+🔢 Simplicity: A minimalist design and simplicity.
+
+🚀 Fast and Efficient: Calculations without the bloat of unnecessary features and ads.
+
+💡 Customizable: Supports light and dark themes.
+
+🌟 Transparency and Trust: CalcSnap operates with full transparency. You can trust the integrity of your calculations and the security of your data with an open-source project that puts user trust at its core.
+
+Whether you're a developer eager to contribute or a user who values simplicity, CalcSnap is the answer. Download now.
+
+
+
 ![Group 6(1)](https://github.com/vishnuchandramc/CalcSnap/assets/43258677/33e14465-a5cf-42c5-90c2-e7522fddf0e3)
 
 
